@@ -1,2 +1,2 @@
 # EELibrary
-This virtual library made for beginner electrical engineers
+This virtual library made for electrical engineers
